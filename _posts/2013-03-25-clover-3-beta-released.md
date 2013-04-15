@@ -44,8 +44,8 @@ v3.0.258 更新
                     
 哪里下载主题皮肤？
 
-Clover 支持 Google Chrome 主题，所以可以到Chrome商店下载主题。找到喜爱的主题，然后使用Chrome Extension Downloader下载：
-	http://chrome-extension-downloader.com/
+Clover 支持 Google Chrome 主题，所以可以到Chrome商店下载主题。找到喜爱的主题，然后使用Chrome Extension Downloader下载：<br>
+<a href="http://chrome-extension-downloader.com/">http://chrome-extension-downloader.com/</a>
 
-或者到其他主题网站下载，比如：
-  http://www.themebeta.com/
+或者到其他主题网站下载，比如：<br>
+<a href="http://www.themebeta.com/">http://www.themebeta.com/</a>
