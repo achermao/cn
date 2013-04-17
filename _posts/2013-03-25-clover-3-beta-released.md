@@ -49,3 +49,4 @@ Clover 支持 Google Chrome 主题，所以可以到Chrome商店下载主题。�
 
 或者到其他主题网站下载，比如：<br>
 <a href="http://www.themebeta.com/">http://www.themebeta.com/</a>
+<a href="http://www.chromethemes.org">http://www.chromethemes.org</a>
