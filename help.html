@@ -1,0 +1,84 @@
+---
+layout: default
+permalink: /help/
+title: 使用帮助
+---
+
+<div class="contents">
+	<h4>常见问题问答</h4>
+	<div class="wrapper">
+		<h5>Q: Clover 是否支持Windows2000系统？</h5>
+		<p><sub>A: Clover 目前只支持Windows XP及以上系统（32位/64位）</sub></p>
+		<h5>Q: 安装时360安全卫士提示 regsvr32 进程安装浏览器插件，这个软件安全吗？</h5>
+		<p><sub>A: Clover 通过Windows Explorer插件的形式集成到系统资源管理器中，获取资源管理器新开窗口的消息，能够自动将外部打开的资源管理器窗口吸附到Clover窗口中。 Clover 程序不会获取用户的任何消息。</sub></p>
+		<h5>Q: Clover 是免费的吗？</h5>
+		<p><sub>
+			A: 是的，Clover完全免费。<br>
+			如果您发现Clover挺有用的并通过<a href="https://me.alipay.com/acher">支付宝捐款</a>，我会十分感激。
+		</sub></p>
+		<h5>Q: 新打开的 Windows Explorer 窗口并不会被 Clover 吸附，是什么原因？</h5>
+		<p><sub>A: 某些优化软件会禁用 TabHelper 插件，会导致这种情况。打开 IE “管理加载项” 菜单, 启用 “ExplorerWatcher class”。</sub></p>
+		<h5>Q: ExplorerWatcher 已经启用, 但是新建的 Windows Explorer 窗口还是不会被吸附?</h5>
+		<p><sub>A: 请检查注册表的下列选项，检查浏览器扩展功能是否被禁用了。<br />
+			[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]<br />
+			“Enable Browser Extensions”=”yes”</sub></p>
+		<h5>Q: 您会把Clover开源吗?</h5>
+		<p><sub>A: 很多朋友咨询这个问题，因为以下几个原因，暂时不会:<br />
+			1. 代码仓促写就，还有很多问题。<br />
+			2. 长期的开发计划和开发方向还不清晰。<br />
+			3. Clover品牌还不够突出，为避免被山寨，暂时不能公开源码。</sub></p>
+		<h5>Q: 能不能把任务栏上的Clover三叶草图标换回资源管理器的图标？</h5>
+		<p><sub>A: 有些人不喜欢Clover的图标，也有一些人很喜欢。所以我暂时不修改Clover的图标，直到我发现一个更好的，或者有人帮我做出一个更漂亮的图标。网友3man和nick提供了一个图标<a href="http://ejie.me/images/Windows_Explorer_Clover.ico">(by 3man)</a> <a href="http://ejie.me/images/clover3_32.ico">(by nick)</a>，你暂时可以用来修改下面这个快捷方式的图标:<br />
+			C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Clover.lnk</sub></p>
+	</div> 
+	
+	<h4>Clover Keyboard Shortcuts</h4>
+	<p>Clover 的快捷键大部分和 Google Chrome 类似, 通过这些快捷键可以快速导航和切换标签。 </p>
+	<table width="100%" border="0" class="tbl01" cellpadding="0" cellspacing="0">
+		<thead>
+			<tr>
+				<td width="36%" align="left">快捷键</td>
+				<td width="64%">说明</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">N</span></td>
+				<td>打开一个新的 Clover 窗口。</td>
+			</tr>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">T</span></td>
+				<td>新建标签页。</td>
+			</tr>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">W</span></td>
+				<td>关闭当前标签页。</td>
+			</tr>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">T</span></td>
+				<td>重新打开关闭的标签页。</td>
+			</tr>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">D</span></td>
+				<td>为此页添加书签（有选择文件、文件夹的情况下，是删除文件）。</td>
+			</tr>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">D</span></td>
+				<td>为所有打开的标签页添加书签。</td>
+			</tr>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">Tab</span></td>
+				<td>切换到下一个标签页。</td>
+			</tr>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">Tab</span></td>
+				<td>切换到前一个标签页。</td>
+			</tr>
+			<tr>
+				<td align="left"><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">B</span></td>
+				<td>显示或隐藏书签栏。</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
