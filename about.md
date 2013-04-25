@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About me
+title: 关于作者
 page-class: page--about
 permalink: /about/
 ---
@@ -9,8 +9,8 @@ permalink: /about/
 
 我喜欢编程。<br>
 我相信科技可以改变人们的生活，所以我非常努力地开发Clover。<br>
-我相信纯粹的灵魂会有更幸福的生活，所以Clover一直保持简单、纯粹。<br>
-在天朝的环境下，宁静的我无法致远，我看不到未来。
+我相信纯粹的灵魂会有幸福的生活，所以Clover一直保持简单、纯粹。<br>
+然而在天朝的环境下，宁静的我无法致远，我看不到未来。
 
 当全世界都要我放弃, 我还是期待有人轻语一声:“再试一次”。
 
