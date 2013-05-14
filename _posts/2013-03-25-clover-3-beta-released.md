@@ -2,7 +2,7 @@
 comments: true
 date: 2013-03-25 07:53:29
 layout: post
-title: Clover 3.0.286 beta released!
+title: Clover 3.0.325 beta released!
 categories:
 - Clover 
 tag:
@@ -16,6 +16,18 @@ tag:
 我也可以舒一口气了 :)
 
 希望大家继续支持Clover，有钱的捧个钱场，没钱的捧个人场，多在微博、QQ群帮我推荐推荐哈。
+
+v3.0.325 更新
+
+·   新功能：记忆上次打开的标签<br>
+·   新功能：Clover崩溃后恢复上次打开的标签<br>
+·   提升：加快窗口显示速度<br>
+·   提升：Explorer崩溃后，自动重新加载<br>
+·   提升：书签栏按ctrl+中键，打开不活动书签（背景）<br>
+·   提升：滚轮在标签页的可见范围内，才可以切换标签<br>
+·   修复：CPU负载飙升的BUG<br>
+·   修复：3次点击空白处会返回2级的bug<br>
+·   修复：部分BUG修复<br>
 
 v3.0.286 更新
 
@@ -40,7 +52,7 @@ v3.0.258 更新
 ·   修复：在没有打开clover的情况下在Chrome-下载内容-点"在文件夹显示"，未正确定位的bug</br>
 ·   修复：xp修改工具栏项目后白屏</br>
 
-<p><a href="http://ejie.me/download">下载地址1</a> ,  <a href="http://ejie.me/uploads/Clover_Setup_3.0.286.zip">下载地址2</a></p>
+<p><a href="http://ejie.me/download">下载地址1</a> ,  <a href="http://ejie.me/uploads/Clover_Setup_3.0.325.zip">下载地址2</a></p>
                     
 哪里下载主题皮肤？
 
