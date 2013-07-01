@@ -16,7 +16,7 @@ Clover推荐：Windows 更新清理工具
 
 好吧，说了这么多，改推荐我们的主角了，这个<a href="http://www.chuyusoft.com">初雨团队</a>开发的免费的小工具，可以帮你清理重复的dll，把无效的旧版本dll文件硬链接到最新版本上面来，通过这个方法，为我的SSD硬盘节约了3GB的空间，试用了几个月，系统依然稳定可靠，所以强烈推荐。
 
-<img src="images/win_upd_clean.png" /> 
+<img src="http://cn.ejie.me/images/win_upd_clean.png" /> 
 
 下载地址：
 
