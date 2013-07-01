@@ -1,3 +1,13 @@
+---
+comments: true
+date: 2013-07-01 15:53:29
+layout: post
+title: Clover推荐：Windows 更新清理工具
+categories:
+- Clover's Picks 
+tag:
+- Windows Update Cleanup tool
+---
 Clover推荐：Windows 更新清理工具
 
 在Windows7之后，系统目录下多了一个叫做WinSxS的文件夹，保存着系统所需的dll文件。然而他还保存着所有旧版本的dll文件，所以随着你安装更多的系统更新之后，这个文件夹会变的越来越大。
