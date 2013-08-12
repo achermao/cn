@@ -2,7 +2,7 @@
 comments: true
 date: 2013-07-02 07:53:29
 layout: post
-title: Clover 3.0.365 beta released!
+title: Clover 3.0.386 beta released!
 categories:
 - Clover 
 tag:
@@ -16,6 +16,16 @@ tag:
 我也可以舒一口气了 :)
 
 希望大家继续支持Clover，有钱的捧个钱场，没钱的捧个人场，多在微博、QQ群帮我推荐推荐哈。
+
+v3.0.386 更新 (2013-08-12)
+
+·   新功能：滚轮切换标签的设置开关</br>
+·   提升：书签栏上的快捷方式支持使用参数</br>
+·   修复：右Ctrl+L会变成收藏书签的BUG</br>
+·   修复：windows8下ribbon失效的bug</br>
+·   修复：退出时Explorer崩溃的bug</br>
+·   修复：无法双击关闭非活动标签的bug</br>
+·   修复：部分BUG修复<br>
 
 v3.0.365 更新 (2013-07-02)
 
@@ -41,16 +51,7 @@ v3.0.325 更新 (2013-05-14)
 ·   修复：3次点击空白处会返回2级的bug<br>
 ·   修复：部分BUG修复<br>
 
-v3.0.286 更新 (2013-04-15)
-
-·   新功能：双击空白处返回上一级文件夹</br>
-·   新功能：中键增加设置关闭</br>
-·   修复：ALT+TAB无法切换的bug</br>
-·   修复：Windows XP无法记住位置的bug</br>
-·   修复：无法加载部分皮肤的bug</br>
-·   修复：win8 问号丢失问题</br>
-
-<p><a href="http://ejie.me/download">下载地址1</a> ,  <a href="http://ejie.me/uploads/Clover_Setup_3.0.365.zip">下载地址2</a></p>
+<p><a href="http://ejie.me/download">下载地址1</a> ,  <a href="http://ejie.me/uploads/Clover_Setup_3.0.386.zip">下载地址2</a></p>
 
 哪里下载主题皮肤？
 
