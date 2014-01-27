@@ -2,7 +2,7 @@
 comments: true
 date: 2013-07-02 07:53:29
 layout: post
-title: Clover 3.0.386 beta released!
+title: Clover 3.0.406 beta released!
 categories:
 - Clover 
 tag:
@@ -16,6 +16,14 @@ tag:
 我也可以舒一口气了 :)
 
 希望大家继续支持Clover，有钱的捧个钱场，没钱的捧个人场，多在微博、QQ群帮我推荐推荐哈。
+
+v3.0.406 更新 (2014-01-26)
+
+·   提升：加快窗口创建速度</br>
+·   修复：Windows 8.1无法显示输入法候选框的bug</br>
+·   修复：Windows 8.1无法预览窗口的bug</br>
+·   修复：Windows 8 Ribbon Bar 不显示的bug</br>
+·   修复：部分BUG修复</br>
 
 v3.0.386 更新 (2013-08-12)
 
@@ -51,7 +59,7 @@ v3.0.325 更新 (2013-05-14)
 ·   修复：3次点击空白处会返回2级的bug<br>
 ·   修复：部分BUG修复<br>
 
-<p><a href="http://ejie.me/download">下载地址1</a> ,  <a href="http://ejie.me/uploads/Clover_Setup_3.0.386.zip">下载地址2</a></p>
+<p><a href="http://ejie.me/download">下载地址1</a> ,  <a href="http://ejie.me/uploads/Clover_Setup_3.0.406.zip">下载地址2</a></p>
 
 哪里下载主题皮肤？
 
