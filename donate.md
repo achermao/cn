@@ -5,7 +5,7 @@ page-class: page--about
 permalink: /donate/
 ---
 
-感谢您支持Clover的开发工作，由于支付关闭了收款主页，所以请通过手机上的支付宝钱包扫描下面的二维码进行付款，谢谢！
+感谢您一直以来对Clover的支持，如果您觉得Clover还不错的话，使用手机支付宝扫描下面的二维码，给我们的程序猿加油打赏吧！
 
 ![](/images/alipay_qr_small.png)
 
