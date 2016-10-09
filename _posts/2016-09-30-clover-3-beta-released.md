@@ -2,16 +2,16 @@
 comments: true
 date: 2016-09-30 07:53:29
 layout: post
-title: Clover 3.1.6 beta released!
+title: Clover 3.1.7 beta released!
 categories:
 - Clover 
 tag:
 - Clover
 ---
 
-Clover V3.1.6上线，该版本集中研究了拖拽标签页进行窗口的拆分与融合的功能，让大家久等了，感谢各位对Clover的支持与反馈！
+Clover V3.1.7上线，该版本集中研究了拖拽标签页进行窗口的拆分与融合的功能，让大家久等了，感谢各位对Clover的支持与反馈！
 
-v3.1.6 更新	(2016-09-30)
+v3.1.7 更新	(2016-09-30)
 
 ·   新增：拖拽标签页进行窗口的拆分与融合，以便于对打开的标签进行管理</br>
 ·   优化：简化关于Clover弹窗界面，去除重复无效的按键</br>
