@@ -1,17 +1,17 @@
 ---
 comments: true
-date: 2016-10-18 07:53:29
+date: 2016-10-20 07:53:29
 layout: post
-title: Clover 3.1.9 beta released!
+title: Clover 3.2.0 beta released!
 categories:
 - Clover 
 tag:
 - Clover
 ---
 
-Clover V3.1.9上线，主要功能如下：
+Clover V3.2.0上线，主要功能如下：
 
-v3.1.9 更新 (2016-10-18)
+v3.2.0 更新 (2016-10-20)
 
 ·   新增：复制标签页</br>
 ·   新增：“Ctrl+B”显示隐藏书签栏</br>
