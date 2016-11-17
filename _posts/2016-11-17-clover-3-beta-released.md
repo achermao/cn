@@ -1,17 +1,17 @@
 ---
 comments: true
-date: 2016-11-15 07:53:29
+date: 2016-11-17 07:53:29
 layout: post
-title: Clover 3.2.1 beta released!
+title: Clover 3.2.2 beta released!
 categories:
 - Clover 
 tag:
 - Clover
 ---
 
-Clover V3.2.1上线，主要功能如下：
+Clover V3.2.2上线，主要功能如下：
 
-v3.2.1 更新 (2016-11-15)
+v3.2.2 更新 (2016-11-17)
 
 ·   新增：拖拽标签页拆分/融合窗口时显示预览小窗口</br>
 ·   新增：Clover按钮打点统计及后台</br>
