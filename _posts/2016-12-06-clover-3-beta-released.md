@@ -1,17 +1,17 @@
 ---
 comments: true
-date: 2016-12-02 07:53:29
+date: 2016-12-06 07:53:29
 layout: post
-title: Clover 3.2.3 beta released!
+title: Clover 3.2.4 beta released!
 categories:
 - Clover 
 tag:
 - Clover
 ---
 
-Clover V3.2.3上线，主要功能如下：
+Clover V3.2.4上线，主要功能如下：
 
-v3.2.3 更新 (2016-12-02)
+v3.2.4 更新 (2016-12-06)
 
 ·   新增：底部状态栏</br>
 ·   优化：优化兼容性，提升稳定性</br>
