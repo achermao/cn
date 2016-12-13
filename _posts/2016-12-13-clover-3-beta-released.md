@@ -1,20 +1,21 @@
 ---
 comments: true
-date: 2016-12-06 07:53:29
+date: 2016-12-13 07:53:29
 layout: post
-title: Clover 3.2.4 beta released!
+title: Clover 3.2.5 beta released!
 categories:
 - Clover 
 tag:
 - Clover
 ---
 
-Clover V3.2.4上线，主要功能如下：
+Clover V3.2.5上线，主要功能如下：
 
-v3.2.4 更新 (2016-12-06)
+v3.2.5 更新 (2016-12-13)
 
 ·   新增：底部状态栏</br>
 ·   优化：优化兼容性，提升稳定性</br>
+·   优化：在当前浏览器打开网页书签</br>
 ·   修复：拔出U盘，标签页显示空白</br>
 ·   修复：XP系统拖拽标签页拆分/融合窗口时无法显示预览小窗口</br>
 
